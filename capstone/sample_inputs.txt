@@ -1,8 +1,0 @@
-Try these in the web page.
-
-true:   Water boils at 100 degrees Celsius at sea level, and the Eiffel Tower is in Paris, France.
-true:   India's Chandrayaan-3 lander touched down near the Moon's south pole in August 2023.
-false:  The Eiffel Tower was moved from Paris to Berlin in 2019 and is now the tallest building in Germany.
-false:  BREAKING!!! Scientists confirm that drinking lemon water every morning cures all forms of cancer and doctors are hiding it from you.
-false:  NASA whistleblower reveals a secret alien city under the Antarctic ice and the government has covered it up for decades.
-misleading: A new study proves that coffee makes you live forever, based on one small survey of 20 people.
