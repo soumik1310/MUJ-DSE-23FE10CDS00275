@@ -12,13 +12,9 @@
 | Team Capstone Repo | |
 
 ## Folders
-
-- `assignments/` weekly assignments
 - `notebooks/` model training notebook (`fake_news_model.ipynb`)
 - `code/` the app: FastAPI backend, ML prediction, Gemini fact check, web page
 - `resources/` sample inputs to try in the app
-- `presentations/` final slides
-- `capstone/` project report: README with results, installation guide, contributions, screenshots
 
 ## Project
 
