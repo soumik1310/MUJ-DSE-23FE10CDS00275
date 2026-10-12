@@ -5,7 +5,7 @@
 | Name | |
 | Registration Number | 23FE10CDS00275 |
 | Branch | |
-| Batch | F |
+| Batch | B |
 | Project Title | Fake News Detector |
 | GitHub Username | soumik1310 |
 | Training Program | NLP Capstone, Batch F |
